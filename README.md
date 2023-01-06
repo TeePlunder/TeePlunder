@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teeplunder&show_icons=true&theme=dracula&locale=en" alt="teeplunder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&" alt="teeplunder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark" alt="teeplunder" /></p>
