@@ -8,10 +8,10 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 &nbsp;
 <p align="center">
     <a href="https://github.com/TeePlunder/">
-        <img src="https://github-readme-stats-teeplunder.vercel.app/api?username=TeePlunder&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=dracula&hide_border=true/" />
+        <img src="https://github-stats-eta-nine.vercel.app/api?username=TeePlunder&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=dracula&hide_border=true/" />
     </a>
     <a href="https://github.com/TeePlunder/">
-        <img src="https://github-readme-stats-teeplunder.vercel.app/api/top-langs/?username=TeePlunder&layout=compact&langs_count=8&card_width=445&theme=dracula&hide_border=true/" />
+        <img src="https://github-stats-eta-nine.vercel.app/api/top-langs/?username=TeePlunder&layout=compact&langs_count=8&card_width=445&theme=dracula&hide_border=true/" />
     </a>
     <a href="https://github.com/TeePlunder/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark" />
