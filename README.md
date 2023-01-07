@@ -24,4 +24,3 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 <a href="https://linkedin.com/in/leon-bergmann-b3520318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon-bergmann-b3520318b" height="30" width="40" /></a>
 </p>
 </div>
-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
