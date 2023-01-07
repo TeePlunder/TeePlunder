@@ -8,10 +8,10 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 &nbsp;
 <p align="center">
     <a href="https://github.com/TeePlunder/">
-        <img src="https://github-readme-stats.vercel.app/api?username=TeePlunder&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=dracula&hide_border=true/" />
+        <img src="https://github-readme-stats-teeplunder.vercel.app/api?username=TeePlunder&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&theme=dracula&hide_border=true/" />
     </a>
     <a href="https://github.com/TeePlunder/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeePlunder&layout=compact&count_private=true&langs_count=8&card_width=445&theme=dracula&hide_border=true/" />
+        <img src="https://github-readme-stats-teeplunder.vercel.app/api/top-langs/?username=TeePlunder&layout=compact&langs_count=8&card_width=445&theme=dracula&hide_border=true/" />
     </a>
     <a href="https://github.com/TeePlunder/">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark" />
@@ -24,3 +24,4 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 <a href="https://linkedin.com/in/leon-bergmann-b3520318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon-bergmann-b3520318b" height="30" width="40" /></a>
 </p>
 </div>
+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
