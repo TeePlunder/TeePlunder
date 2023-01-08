@@ -3,11 +3,13 @@
 ![](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif)
 
 ---
-
 ## 👤 About Me
 Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive into the world of programming. Since I started my apprenticeship as an IT specialist for application development in 2019, I have been working in web development and have been able to gain very good experience (Read more on [LinkedIn](https://www.linkedin.com/in/leon-bergmann-b3520318b/)). I have a lot of fun building new things and trying out new things. 😁
 
----
+## 🌱 I'm currently learning
+- Since October 2022 I study [medical informatics (B.Sc.)](https://www.b-tu.de/medizininformatik-bs?tx_btucoursesofstudies_list%5Bcontroller%5D=Course&cHash=e0828f430324b29721df5bc3d17b3f6a) at BTU
+- in the future Python
+
 ## 🔖 My Statistics
 <p align="center">
     <a href="https://github.com/TeePlunder/">
@@ -25,8 +27,6 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 
 <!-- START_SECTION:activity -->
 
-
----
 ## 📲 Connect
 
 <p align="center"> 
