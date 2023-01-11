@@ -1,9 +1,8 @@
 <div align = "center">
 
-<!-- ![](https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif) -->
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
 
----
+
 ## 👤 About Me
 Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive into the world of programming. Since I started my apprenticeship as an IT specialist for application development in 2019, I have been working in web development and have been able to gain very good experience (Read more on [LinkedIn](https://www.linkedin.com/in/leon-bergmann-b3520318b/)). I have a lot of fun building new things and trying out new things. 😁
 
