@@ -21,7 +21,7 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
         <img src="https://github-stats-eta-nine.vercel.app/api/top-langs/?username=TeePlunder&layout=compact&langs_count=8&hide_border=true&card_width=445&theme=dracula&exclude_repo=github-stats,my_obsidian_brain&count_private=true" />
     </a>
     <a href="https://github.com/TeePlunder/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark&exclude_repo=github-stats&hide_border=true" />s
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark&exclude_repo=github-stats,my_obsidian_brain&hide_border=true" />
     </a>
 </p>
 
