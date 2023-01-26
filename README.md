@@ -25,9 +25,9 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
     </a>
 </p>
 
-## ⚡️ Recent Activity
+<!-- ## ⚡️ Recent Activity
 
-START_SECTION:activity
+START_SECTION:activity -->
 
 ## 📲 Connect
 
