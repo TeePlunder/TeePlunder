@@ -4,7 +4,7 @@
 
 ## 👤 About Me
 
-Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive into the world of programming. Since I started my apprenticeship as an IT specialist for application development in 2019, I have been working in web development and have been able to gain very good experience (Read more on [LinkedIn](https://www.linkedin.com/in/leon-bergmann-b3520318b/)). I have a lot of fun building new things and trying out new things. 😁
+Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive into the world of programming. Since I started my apprenticeship as an IT specialist for application development in 2019, I have been working in web development and have been able to gain very good experience (Read more on [LinkedIn](https://www.linkedin.com/in/leon-bergmann-b3520318b/)). I have a lot of fun building and trying out new things. 😁
 
 ## 🌱 I'm currently learning
 
