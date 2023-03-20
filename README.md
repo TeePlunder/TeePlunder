@@ -1,15 +1,28 @@
 <div align = "center">
+    <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+</div>
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400"/>
+<div align = "center">
 
 ## 👤 About Me
 
 Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive into the world of programming. Since I started my apprenticeship as an IT specialist for application development in 2019, I have been working in web development and have been able to gain very good experience (Read more on [LinkedIn](https://www.linkedin.com/in/leon-bergmann-b3520318b/)). I have a lot of fun building and trying out new things. 😁
 
+</div>
+
+<div align = "center">
+
 ## 🌱 I'm currently learning
 
-- Since October 2022 I study [medical informatics (B.Sc.)](https://www.b-tu.de/medizininformatik-bs?tx_btucoursesofstudies_list%5Bcontroller%5D=Course&cHash=e0828f430324b29721df5bc3d17b3f6a) at BTU
-- in the future Python
+Since October 2022 I study [medical informatics (B.Sc.)](https://www.b-tu.de/medizininformatik-bs?tx_btucoursesofstudies_list%5Bcontroller%5D=Course&cHash=e0828f430324b29721df5bc3d17b3f6a) at BTU
+
+</div>
+
+<!--   grid-snake -->
+
+![](https://github.com/TeePlunder/TeePlunder/blob/output/github-contribution-grid-snake.svg)
+
+<div align = "center">
 
 ## 🔖 My Statistics
 
@@ -24,10 +37,9 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=teeplunder&theme=dark&exclude_repo=github-stats,my_obsidian_brain&hide_border=true" />
     </a>
 </p>
+</div>
 
-<!-- ## ⚡️ Recent Activity
-
-START_SECTION:activity -->
+<div align = "center">
 
 ## 📲 Connect
 
