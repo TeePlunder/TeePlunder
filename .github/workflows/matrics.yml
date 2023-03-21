@@ -30,7 +30,7 @@ jobs:
           plugin_habits_charts: yes
 
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 5
 
           plugin_reactions: yes
           plugin_reactions_limit: 100
