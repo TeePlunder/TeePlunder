@@ -12,18 +12,6 @@ Hi 👋, I'm Leon! A web developer from Germany who loves to program and to dive
 
 <div align = "center">
 
-## 🌱 I'm currently learning
-
-Since October 2022 I study [medical informatics (B.Sc.)](https://www.b-tu.de/medizininformatik-bs?tx_btucoursesofstudies_list%5Bcontroller%5D=Course&cHash=e0828f430324b29721df5bc3d17b3f6a) at BTU
-
-</div>
-
-<!--   grid-snake -->
-
-![](https://github.com/TeePlunder/TeePlunder/blob/output/github-contribution-grid-snake.svg)
-
-<div align = "center">
-
 ## 🔖 My Statistics
 
 <p align="center">
@@ -41,11 +29,6 @@ Since October 2022 I study [medical informatics (B.Sc.)](https://www.b-tu.de/med
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-<div align = "center">
+<!--   grid-snake -->
 
-## 📲 Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/leon-bergmann-b3520318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leon-bergmann-b3520318b" height="30" width="40" /></a>
-</p>
-</div>
+![](https://github.com/TeePlunder/TeePlunder/blob/output/github-contribution-grid-snake.svg)
